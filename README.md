@@ -1,2 +1,2 @@
 # Machine-learning
- ibaraki class
+Pythonによるデータサイエンス＆機械学習
