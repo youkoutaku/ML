@@ -17,4 +17,4 @@ Pythonによるデータサイエンス＆機械学習
 14. 機械学習モデルの改善
 15. 最終レポート
 
-（予測モデル：ML/15/YANG GUANGZE(最終レポート).ipynb）
+[予測モデル](Machine-Learning/15/YANG GUANGZE(最終レポート).ipynb）
