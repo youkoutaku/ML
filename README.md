@@ -17,4 +17,4 @@ Pythonによるデータサイエンス＆機械学習
 14. 機械学習モデルの改善
 15. 最終レポート
 
-[予測モデル](https://github.com/youkoutaku/Machine-Learning/blob/main/15/YANG%20GUANGZE(%E6%9C%80%E7%B5%82%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88).ipynb)）
+[予測モデル](https://github.com/youkoutaku/Machine-Learning/blob/main/15/YANG%20GUANGZE(%E6%9C%80%E7%B5%82%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88).ipynb)
